@@ -448,9 +448,10 @@ Me - Manifest and downloadeds APKs
 | fortnite-35-10-0-42471790 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-35-10-0-42471790-android-apk-1749838709/fortnite-35-10-0-42471790-android.apk) | N/A | N/A |
 | fortnite-35-10-0-42696141 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-35-10-0-42696141-android-apk-1749838740/fortnite-35-10-0-42696141-android.apk) | N/A | N/A |
 | fortnite-35-20-0-42911808 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-35-20-0-42911808-android-apk-1749838772/fortnite-35-20-0-42911808-android.apk) | N/A | N/A |
--->
+
 
 # season 36
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
 | fortnite-36-00-0-43214806 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-36-00-0-43214806-android-apk-1749838802/fortnite-36-00-0-43214806-android.apk) | N/A | N/A |
+-->
