@@ -1,6 +1,7 @@
 # FNAndroidarchive
 
-![fnbuilds](https://github.com/user-attachments/assets/513e07ff-fe32-49a9-947b-244f73a0f5dc)
+![fnbuilds](https://github.com/user-attachments/assets/964425bd-9aff-4ff0-a0e1-5ddb89ed936e)
+
 
 All credits go to Epic Games, Inc. This repo is not affiliated with, authorized, endorsed, or sponsored by Epic Games, Inc., Fortnite, or any related trademarks.
 
@@ -16,7 +17,7 @@ Me - Manifest and downloadeds APKs
 # season 1
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| [release-fortnite-1-0-0-apk]( https://github.com/mtbr29/FNAndroidArchive/releases/tag/release-fortnite-1-0-0-apk-1749795032 )  | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-1-0-0-apk-1749795032/fortnite-1-0-0.apk)  | n/a | n/a|
+| release-fortnite-1-0-0-apk  | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-1-0-0.apk)  | n/a | n/a|
 
 # season 5
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
