@@ -8,8 +8,8 @@ All credits go to Epic Games, Inc. This repo is not affiliated with, authorized,
 APKs (and IPAs) are just installers. How to install on PC: (Tutorial Soon)
 
 ### credits:
-[@Th3DryZ69_](https://github.com/Th3DryZ69) - Method and encouragement lol
-[Uptodown](https://www.uptodown.com/) - all listed APKs here
+[@Th3DryZ69_](https://github.com/Th3DryZ69) - Method and encouragement lol <br>
+[Uptodown](https://www.uptodown.com/) - all listed APKs here<br>
 Me - Manifest and downloadeds APKs
 
 ### If you want Windows,Android,IOS,Xbox,Nintendo Switch and PS4 builds: https://mtbr29.dev/builds
