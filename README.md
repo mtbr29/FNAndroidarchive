@@ -18,205 +18,206 @@ Me - Manifest and downloadeds APKs
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
 | release-fortnite-1-0-0-apk  | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-1-0-0.apk)  | n/a | n/a|
-
 # season 5
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-5-2-0-4260394 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-0-4260394-android-apk-1749838834/fortnite-5-2-0-4260394-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-0-4268994-android-apk-1749838847/fortnite-5-2-0-4268994-android.apk) |
-| fortnite-5-2-0-4268994 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-0-4268994-android-apk-1749838847/fortnite-5-2-0-4268994-android.apk) | N/A | N/A |
-| fortnite-5-2-0-4276112 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-0-4276112-android-apk-1749838860/fortnite-5-2-0-4276112-android.apk) | N/A | N/A |
-| fortnite-5-2-1-4284747 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-1-4284747-android-apk-1749838875/fortnite-5-2-1-4284747-android.apk) | N/A | N/A |
-| fortnite-5-2-1-4288479 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-2-1-4288479-android-apk-1749838889/fortnite-5-2-1-4288479-android.apk) | N/A | N/A |
-| fortnite-5-21-2-4296531 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-21-2-4296531-android-apk-1749838903/fortnite-5-21-2-4296531-android.apk) | N/A | N/A |
-| fortnite-5-30-0-4308644 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-30-0-4308644-android-apk-1749838918/fortnite-5-30-0-4308644-android.apk) | N/A | N/A |
-| fortnite-5-30-0-4312945 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-30-0-4312945-android-apk-1749838931/fortnite-5-30-0-4312945-android.apk) | N/A | N/A |
-| fortnite-5-40-0-4342413 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-40-0-4342413-android-apk-1749838945/fortnite-5-40-0-4342413-android.apk) | N/A | N/A |
-| fortnite-5-40-0-4349476 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-40-0-4349476-android-apk-1749838960/fortnite-5-40-0-4349476-android.apk) | N/A | N/A |
-| fortnite-5-40-0-4356242 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-40-0-4356242-android-apk-1749838974/fortnite-5-40-0-4356242-android.apk) | N/A | N/A |
-| fortnite-5-41-0-4363240 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-5-41-0-4363240-android-apk-1749838990/fortnite-5-41-0-4363240-android.apk) | N/A | N/A |
+| fortnite-5-2-0-4260394 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-0-4260394-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-0-4268994-android.apk) |
+| fortnite-5-2-0-4268994 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-0-4268994-android.apk) | N/A | N/A |
+| fortnite-5-2-0-4276112 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-0-4276112-android.apk) | N/A | N/A |
+| fortnite-5-2-1-4284747 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-1-4284747-android.apk) | N/A | N/A |
+| fortnite-5-2-1-4288479 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-2-1-4288479-android.apk) | N/A | N/A |
+| fortnite-5-21-2-4296531 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-21-2-4296531-android.apk) | N/A | N/A |
+| fortnite-5-30-0-4308644 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-30-0-4308644-android.apk) | N/A | N/A |
+| fortnite-5-30-0-4312945 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-30-0-4312945-android.apk) | N/A | N/A |
+| fortnite-5-40-0-4342413 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-40-0-4342413-android.apk) | N/A | N/A |
+| fortnite-5-40-0-4349476 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-40-0-4349476-android.apk) | N/A | N/A |
+| fortnite-5-40-0-4356242 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-40-0-4356242-android.apk) | N/A | N/A |
+| fortnite-5-41-0-4363240 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-5-41-0-4363240-android.apk) | N/A | N/A |
 
 # season 6
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-6-00-0-4395664 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-00-0-4395664-android-apk-1749839004/fortnite-6-00-0-4395664-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-00-0-4395664-android-apk-1749839004/FortniteGame.rar) |
-| fortnite-6-00-0-4402180 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-00-0-4402180-android-apk-1749839019/fortnite-6-00-0-4402180-android.apk) | N/A | N/A |
-| fortnite-6-01-0-4413911 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-01-0-4413911-android-apk-1749839035/fortnite-6-01-0-4413911-android.apk) | N/A | N/A |
-| fortnite-6-02-0-4440378 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-02-0-4440378-android-apk-1749839050/fortnite-6-02-0-4440378-android.apk) | N/A | N/A |
-| fortnite-6-10-0-4464155 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-10-0-4464155-android-apk-1749839065/fortnite-6-10-0-4464155-android.apk) | N/A | N/A |
-| fortnite-6-10-0-4482365 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-10-0-4482365-android-apk-1749839078/fortnite-6-10-0-4482365-android.apk) | N/A | N/A |
-| fortnite-6-20-0-4497486 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-20-0-4497486-android-apk-1749839092/fortnite-6-20-0-4497486-android.apk) | N/A | N/A |
-| fortnite-6-21-0-4526925 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-21-0-4526925-android-apk-1749839107/fortnite-6-21-0-4526925-android.apk) | N/A | N/A |
-| fortnite-6-21-0-4531468 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-21-0-4531468-android-apk-1749839122/fortnite-6-21-0-4531468-android.apk) | N/A | N/A |
-| fortnite-6-22-0-4538154 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-22-0-4538154-android-apk-1749839137/fortnite-6-22-0-4538154-android.apk) | N/A | N/A |
-| fortnite-6-30-0-4560568 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-30-0-4560568-android-apk-1749839152/fortnite-6-30-0-4560568-android.apk) | N/A | N/A |
-| fortnite-6-31-0-4573279 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-6-31-0-4573279-android-apk-1749839166/fortnite-6-31-0-4573279-android.apk) | N/A | N/A |
+| fortnite-6-00-0-4395664 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-00-0-4395664-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/FortniteGame.rar) |
+| fortnite-6-00-0-4402180 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-00-0-4402180-android.apk) | N/A | N/A |
+| fortnite-6-01-0-4413911 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-01-0-4413911-android.apk) | N/A | N/A |
+| fortnite-6-02-0-4440378 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-02-0-4440378-android.apk) | N/A | N/A |
+| fortnite-6-10-0-4464155 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-10-0-4464155-android.apk) | N/A | N/A |
+| fortnite-6-10-0-4482365 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-10-0-4482365-android.apk) | N/A | N/A |
+| fortnite-6-20-0-4497486 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-20-0-4497486-android.apk) | N/A | N/A |
+| fortnite-6-21-0-4526925 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-21-0-4526925-android.apk) | N/A | N/A |
+| fortnite-6-21-0-4531468 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-21-0-4531468-android.apk) | N/A | N/A |
+| fortnite-6-22-0-4538154 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-22-0-4538154-android.apk) | N/A | N/A |
+| fortnite-6-30-0-4560568 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-30-0-4560568-android.apk) | N/A | N/A |
+| fortnite-6-31-0-4573279 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-6-31-0-4573279-android.apk) | N/A | N/A |
+
 # season 7
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-7-00-0-4667012 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-00-0-4667012-android-apk-1749839181/fortnite-7-00-0-4667012-android.apk) | N/A | N/A |
-| fortnite-7-01-0-4644078 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-01-0-4644078-android-apk-1749839196/fortnite-7-01-0-4644078-android.apk) | N/A | N/A |
-| fortnite-7-01-0-4659072 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-01-0-4659072-android-apk-1749839211/fortnite-7-01-0-4659072-android.apk) | N/A | N/A |
-| fortnite-7-10-0-4669483 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-10-0-4669483-android-apk-1749839226/fortnite-7-10-0-4669483-android.apk) | N/A | N/A |
-| fortnite-7-20-0-4716934 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-20-0-4716934-android-apk-1749839241/fortnite-7-20-0-4716934-android.apk) | N/A | N/A |
-| fortnite-7-20-0-4727874 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-20-0-4727874-android-apk-1749839256/fortnite-7-20-0-4727874-android.apk) | N/A | N/A |
-| fortnite-7-20-0-4733620 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-20-0-4733620-android-apk-1749839270/fortnite-7-20-0-4733620-android.apk) | N/A | N/A |
-| fortnite-7-20-0-4747526 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-20-0-4747526-android-apk-1749839285/fortnite-7-20-0-4747526-android.apk) | N/A | N/A |
-| fortnite-7-30-0-4821335 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-30-0-4821335-android-apk-1749839300/fortnite-7-30-0-4821335-android.apk) | N/A | N/A |
-| fortnite-7-30-0-4834550 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-30-0-4834550-android-apk-1749839315/fortnite-7-30-0-4834550-android.apk) | N/A | N/A |
-| fortnite-7-40-0-4980899 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-40-0-4980899-android-apk-1749839330/fortnite-7-40-0-4980899-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-40-0-4980899-android-apk-1749839330/FortniteGame.rar) |
-| fortnite-7-40-0-4996167 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-40-0-4996167-android-apk-1749839345/fortnite-7-40-0-4996167-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-40-0-4996167-android-apk-1749839345/FortniteGame.rar) |
-| fortnite-7-40-0-5004581 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-7-40-0-5004581-android-apk-1749839360/fortnite-7-40-0-5004581-android.apk) | N/A | N/A |
+| fortnite-7-00-0-4667012 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-00-0-4667012-android.apk) | N/A | N/A |
+| fortnite-7-01-0-4644078 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-01-0-4644078-android.apk) | N/A | N/A |
+| fortnite-7-01-0-4659072 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-01-0-4659072-android.apk) | N/A | N/A |
+| fortnite-7-10-0-4669483 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-10-0-4669483-android.apk) | N/A | N/A |
+| fortnite-7-20-0-4716934 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-20-0-4716934-android.apk) | N/A | N/A |
+| fortnite-7-20-0-4727874 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-20-0-4727874-android.apk) | N/A | N/A |
+| fortnite-7-20-0-4733620 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-20-0-4733620-android.apk) | N/A | N/A |
+| fortnite-7-20-0-4747526 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-20-0-4747526-android.apk) | N/A | N/A |
+| fortnite-7-30-0-4821335 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-30-0-4821335-android.apk) | N/A | N/A |
+| fortnite-7-30-0-4834550 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-30-0-4834550-android.apk) | N/A | N/A |
+| fortnite-7-40-0-4980899 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-40-0-4980899-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/FortniteGame.rar) |
+| fortnite-7-40-0-4996167 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-40-0-4996167-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/FortniteGame.rar) |
+| fortnite-7-40-0-5004581 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-7-40-0-5004581-android.apk) | N/A | N/A |
 
 # season 8
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-8-00-0-5203069 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-00-0-5203069-android-apk-1749839376/fortnite-8-00-0-5203069-android.apk) | N/A | N/A |
-| fortnite-8-00-0-5251086 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-00-0-5251086-android-apk-1749839405/fortnite-8-00-0-5251086-android.apk) | N/A | N/A |
-| fortnite-8-01-0-5285981 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-01-0-5285981-android-apk-1749839420/fortnite-8-01-0-5285981-android.apk) | N/A | N/A |
-| fortnite-8-10-0-5362200 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-10-0-5362200-android-apk-1749839435/fortnite-8-10-0-5362200-android.apk) | N/A | N/A |
-| fortnite-8-10-0-5383041 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-10-0-5383041-android-apk-1749839451/fortnite-8-10-0-5383041-android.apk) | N/A | N/A |
-| fortnite-8-11-0-5442615 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-11-0-5442615-android-apk-1749839467/fortnite-8-11-0-5442615-android.apk) | N/A | N/A |
-| fortnite-8-20-0-5634769 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-20-0-5634769-android-apk-1749839482/fortnite-8-20-0-5634769-android.apk) | N/A | N/A |
-| fortnite-8-20-0-5688020 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-20-0-5688020-android-apk-1749839497/fortnite-8-20-0-5688020-android.apk) | N/A | N/A |
-| fortnite-8-30-0-5806807 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-30-0-5806807-android-apk-1749839512/fortnite-8-30-0-5806807-android.apk) | N/A | N/A |
-| fortnite-8-30-0-5831510 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-30-0-5831510-android-apk-1749839529/fortnite-8-30-0-5831510-android.apk) | N/A | N/A |
-| fortnite-8-40-0-5918056 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-40-0-5918056-android-apk-1749839545/fortnite-8-40-0-5918056-android.apk) | N/A | N/A |
-| fortnite-8-50-0-6058028 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-50-0-6058028-android-apk-1749839560/fortnite-8-50-0-6058028-android.apk) | N/A | N/A |
-| fortnite-8-51-0-6165369 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-51-0-6165369-android-apk-1749839577/fortnite-8-51-0-6165369-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-8-51-0-6165369-android-apk-1749839577/FortniteGame.rar) |
+| fortnite-8-00-0-5203069 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-00-0-5203069-android.apk) | N/A | N/A |
+| fortnite-8-00-0-5251086 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-00-0-5251086-android.apk) | N/A | N/A |
+| fortnite-8-01-0-5285981 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-01-0-5285981-android.apk) | N/A | N/A |
+| fortnite-8-10-0-5362200 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-10-0-5362200-android.apk) | N/A | N/A |
+| fortnite-8-10-0-5383041 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-10-0-5383041-android.apk) | N/A | N/A |
+| fortnite-8-11-0-5442615 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-11-0-5442615-android.apk) | N/A | N/A |
+| fortnite-8-20-0-5634769 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-20-0-5634769-android.apk) | N/A | N/A |
+| fortnite-8-20-0-5688020 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-20-0-5688020-android.apk) | N/A | N/A |
+| fortnite-8-30-0-5806807 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-30-0-5806807-android.apk) | N/A | N/A |
+| fortnite-8-30-0-5831510 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-30-0-5831510-android.apk) | N/A | N/A |
+| fortnite-8-40-0-5918056 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-40-0-5918056-android.apk) | N/A | N/A |
+| fortnite-8-50-0-6058028 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-50-0-6058028-android.apk) | N/A | N/A |
+| fortnite-8-51-0-6165369 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-8-51-0-6165369-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/FortniteGame.rar) |
 
 # season 9
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-9-00-0-6337466 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-00-0-6337466-android-apk-1749839593/fortnite-9-00-0-6337466-android.apk) | N/A | N/A |
-| fortnite-9-01-0-6428087 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-01-0-6428087-android-apk-1749839609/fortnite-9-01-0-6428087-android.apk) | N/A | N/A |
-| fortnite-9-10-0-6573057 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-10-0-6573057-android-apk-1749839626/fortnite-9-10-0-6573057-android.apk) | N/A | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-10-0-6573057-android-apk-1749839626/FortniteGame.rar) |
-| fortnite-9-20-0-6839499 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-20-0-6839499-android-apk-1749839640/fortnite-9-20-0-6839499-android.apk) | N/A | N/A |
-| fortnite-9-20-0-6892370 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-20-0-6892370-android-apk-1749839655/fortnite-9-20-0-6892370-android.apk) | N/A | N/A |
-| fortnite-9-21-0-6922310 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-21-0-6922310-android-apk-1749839670/fortnite-9-21-0-6922310-android.apk) | N/A | N/A |
-| fortnite-9-30-0-7021684 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-30-0-7021684-android-apk-1749839685/fortnite-9-30-0-7021684-android.apk) | N/A | N/A |
-| fortnite-9-30-0-7098500 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-30-0-7098500-android-apk-1749839699/fortnite-9-30-0-7098500-android.apk) | N/A | N/A |
-| fortnite-9-40-0-7326262 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-40-0-7326262-android-apk-1749839728/fortnite-9-40-0-7326262-android.apk) | N/A | N/A |
-| fortnite-9-41-0-7463579 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-41-0-7463579-android-apk-1749839743/fortnite-9-41-0-7463579-android.apk) | N/A | N/A |
-| fortnite-9-41-0-7478950 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-9-41-0-7478950-android-apk-1749839759/fortnite-9-41-0-7478950-android.apk) | N/A | N/A |
+| fortnite-9-00-0-6337466 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-00-0-6337466-android.apk) | N/A | N/A |
+| fortnite-9-01-0-6428087 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-01-0-6428087-android.apk) | N/A | N/A |
+| fortnite-9-10-0-6573057 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-10-0-6573057-android.apk) | N/A | [Download](https://archive.org/download/FNAndroidBuildsArchive/FortniteGame.rar) |
+| fortnite-9-20-0-6839499 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-20-0-6839499-android.apk) | N/A | N/A |
+| fortnite-9-20-0-6892370 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-20-0-6892370-android.apk) | N/A | N/A |
+| fortnite-9-21-0-6922310 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-21-0-6922310-android.apk) | N/A | N/A |
+| fortnite-9-30-0-7021684 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-30-0-7021684-android.apk) | N/A | N/A |
+| fortnite-9-30-0-7098500 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-30-0-7098500-android.apk) | N/A | N/A |
+| fortnite-9-40-0-7326262 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-40-0-7326262-android.apk) | N/A | N/A |
+| fortnite-9-41-0-7463579 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-41-0-7463579-android.apk) | N/A | N/A |
+| fortnite-9-41-0-7478950 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-9-41-0-7478950-android.apk) | N/A | N/A |
 
 # season 10
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-10-00-0-7658179 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-00-0-7658179-android-apk-1749795046/fortnite-10-00-0-7658179-android.apk) | N/A | N/A |
-| fortnite-10-10-0-7955722 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-10-0-7955722-android-apk-1749795059/fortnite-10-10-0-7955722-android.apk) | N/A | N/A |
-| fortnite-10-20-0-8243923 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-20-0-8243923-android-apk-1749795072/fortnite-10-20-0-8243923-android.apk) | N/A | N/A |
-| fortnite-10-20-0-8360257 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-20-0-8360257-android-apk-1749795086/fortnite-10-20-0-8360257-android.apk) | N/A | N/A |
-| fortnite-10-20-0-8456527 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-20-0-8456527-android-apk-1749795099/fortnite-10-20-0-8456527-android.apk) | N/A | N/A |
-| fortnite-10-30-0-8569414 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-30-0-8569414-android-apk-1749795137/fortnite-10-30-0-8569414-android.apk) | N/A | N/A |
-| fortnite-10-31-0-8757496 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-31-0-8757496-android-apk-1749795172/fortnite-10-31-0-8757496-android.apk) | N/A | N/A |
-| fortnite-10-31-0-8847835 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-31-0-8847835-android-apk-1749795188/fortnite-10-31-0-8847835-android.apk) | N/A | N/A |
-| fortnite-10-40-0-8936006 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-40-0-8936006-android-apk-1749795204/fortnite-10-40-0-8936006-android.apk) | N/A | N/A |
-| fortnite-10-40-0-9009621 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-40-0-9009621-android-apk-1749795219/fortnite-10-40-0-9009621-android.apk) | N/A | N/A |
-| fortnite-10-40-0-9302865 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-10-40-0-9302865-android-apk-1749795234/fortnite-10-40-0-9302865-android.apk) | N/A | N/A |
+| fortnite-10-00-0-7658179 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-00-0-7658179-android.apk) | N/A | N/A |
+| fortnite-10-10-0-7955722 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-10-0-7955722-android.apk) | N/A | N/A |
+| fortnite-10-20-0-8243923 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-20-0-8243923-android.apk) | N/A | N/A |
+| fortnite-10-20-0-8360257 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-20-0-8360257-android.apk) | N/A | N/A |
+| fortnite-10-20-0-8456527 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-20-0-8456527-android.apk) | N/A | N/A |
+| fortnite-10-30-0-8569414 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-30-0-8569414-android.apk) | N/A | N/A |
+| fortnite-10-31-0-8757496 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-31-0-8757496-android.apk) | N/A | N/A |
+| fortnite-10-31-0-8847835 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-31-0-8847835-android.apk) | N/A | N/A |
+| fortnite-10-40-0-8936006 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-40-0-8936006-android.apk) | N/A | N/A |
+| fortnite-10-40-0-9009621 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-40-0-9009621-android.apk) | N/A | N/A |
+| fortnite-10-40-0-9302865 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-10-40-0-9302865-android.apk) | N/A | N/A |
 
 # season 11
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-11-00-0-9564328 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-00-0-9564328-android-apk-1749795265/fortnite-11-00-0-9564328-android.apk) | N/A | N/A |
-| fortnite-11-01-0-9705895 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-01-0-9705895-android-apk-1749795310/fortnite-11-01-0-9705895-android.apk) | N/A | N/A |
-| fortnite-11-10-0-9844520 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-10-0-9844520-android-apk-1749795338/fortnite-11-10-0-9844520-android.apk) | N/A | N/A |
-| fortnite-11-10-0-9888431 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-10-0-9888431-android-apk-1749795355/fortnite-11-10-0-9888431-android.apk) | N/A | N/A |
-| fortnite-11-11-0-10079216 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-11-0-10079216-android-apk-1749795386/fortnite-11-11-0-10079216-android.apk) | N/A | N/A |
-| fortnite-11-20-0-10297934 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-20-0-10297934-android-apk-1749795410/fortnite-11-20-0-10297934-android.apk) | N/A | N/A |
-| fortnite-11-21-0-10481509 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-21-0-10481509-android-apk-1749795428/fortnite-11-21-0-10481509-android.apk) | N/A | N/A |
-| fortnite-11-30-0-10639804 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-30-0-10639804-android-apk-1749795445/fortnite-11-30-0-10639804-android.apk) | N/A | N/A |
-| fortnite-11-31-0-10800749 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-31-0-10800749-android-apk-1749795461/fortnite-11-31-0-10800749-android.apk) | N/A | N/A |
-| fortnite-11-31-0-10853343 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-31-0-10853343-android-apk-1749795476/fortnite-11-31-0-10853343-android.apk) | N/A | N/A |
-| fortnite-11-40-0-10948180 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-40-0-10948180-android-apk-1749795493/fortnite-11-40-0-10948180-android.apk) | N/A | N/A |
-| fortnite-11-40-0-10993225 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-40-0-10993225-android-apk-1749795511/fortnite-11-40-0-10993225-android.apk) | N/A | N/A |
-| fortnite-11-50-0-11204868 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-50-0-11204868-android-apk-1749795531/fortnite-11-50-0-11204868-android.apk) | N/A | N/A |
-| fortnite-11-50-0-11265652 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-11-50-0-11265652-android-apk-1749795547/fortnite-11-50-0-11265652-android.apk) | N/A | N/A |
+| fortnite-11-00-0-9564328 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-00-0-9564328-android.apk) | N/A | N/A |
+| fortnite-11-01-0-9705895 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-01-0-9705895-android.apk) | N/A | N/A |
+| fortnite-11-10-0-9844520 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-10-0-9844520-android.apk) | N/A | N/A |
+| fortnite-11-10-0-9888431 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-10-0-9888431-android.apk) | N/A | N/A |
+| fortnite-11-11-0-10079216 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-11-0-10079216-android.apk) | N/A | N/A |
+| fortnite-11-20-0-10297934 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-20-0-10297934-android.apk) | N/A | N/A |
+| fortnite-11-21-0-10481509 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-21-0-10481509-android.apk) | N/A | N/A |
+| fortnite-11-30-0-10639804 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-30-0-10639804-android.apk.zip) | N/A | N/A |
+| fortnite-11-31-0-10800749 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-31-0-10800749-android.apk.zip) | N/A | N/A |
+| fortnite-11-31-0-10853343 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-31-0-10853343-android.apk.zip) | N/A | N/A |
+| fortnite-11-40-0-10948180 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-40-0-10948180-android.apk.zip) | N/A | N/A |
+| fortnite-11-40-0-10993225 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-40-0-10993225-android.apk.zip) | N/A | N/A |
+| fortnite-11-50-0-11204868 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-50-0-11204868-android.apk.zip) | N/A | N/A |
+| fortnite-11-50-0-11265652 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-11-50-0-11265652-android.apk.zip) | N/A | N/A |
+
 # season 12
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-12-00-0-11529743 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-00-0-11529743-android-apk-1749795565/fortnite-12-00-0-11529743-android.apk) | N/A | N/A |
-| fortnite-12-00-0-11573981 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-00-0-11573981-android-apk-1749795582/fortnite-12-00-0-11573981-android.apk) | N/A | N/A |
-| fortnite-12-10-0-11794982 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-10-0-11794982-android-apk-1749795599/fortnite-12-10-0-11794982-android.apk) | N/A | N/A |
-| fortnite-12-20-0-12170032 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-20-0-12170032-android-apk-1749795616/fortnite-12-20-0-12170032-android.apk) | N/A | N/A |
-| fortnite-12-20-0-12240764 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-20-0-12240764-android-apk-1749795634/fortnite-12-20-0-12240764-android.apk) | N/A | N/A |
-| fortnite-12-21-0-12337779 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-21-0-12337779-android-apk-1749795654/fortnite-12-21-0-12337779-android.apk) | N/A | N/A |
-| fortnite-12-21-0-12395074 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-21-0-12395074-android-apk-1749795671/fortnite-12-21-0-12395074-android.apk) | N/A | N/A |
-| fortnite-12-30-0-12486755 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-30-0-12486755-android-apk-1749795688/fortnite-12-30-0-12486755-android.apk) | N/A | N/A |
-| fortnite-12-30-0-12502623 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-30-0-12502623-android-apk-1749795706/fortnite-12-30-0-12502623-android.apk) | N/A | N/A |
-| fortnite-12-30-0-12624643 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-30-0-12624643-android-apk-1749795723/fortnite-12-30-0-12624643-android.apk) | N/A | N/A |
-| fortnite-12-40-0-12743641 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-40-0-12743641-android-apk-1749795740/fortnite-12-40-0-12743641-android.apk) | N/A | N/A |
-| fortnite-12-40-0-12837456 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-40-0-12837456-android-apk-1749795757/fortnite-12-40-0-12837456-android.apk) | N/A | N/A |
-| fortnite-12-41-0-12910313 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-41-0-12910313-android-apk-1749795774/fortnite-12-41-0-12910313-android.apk) | N/A | N/A |
-| fortnite-12-50-0-13044691 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-50-0-13044691-android-apk-1749795789/fortnite-12-50-0-13044691-android.apk) | N/A | N/A |
-| fortnite-12-50-0-13070927 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-50-0-13070927-android-apk-1749795811/fortnite-12-50-0-13070927-android.apk) | N/A | N/A |
-| fortnite-12-50-0-13179981 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-50-0-13179981-android-apk-1749795833/fortnite-12-50-0-13179981-android.apk) | N/A | N/A |
-| fortnite-12-60-0-13333624 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-60-0-13333624-android-apk-1749795849/fortnite-12-60-0-13333624-android.apk) | N/A | N/A |
-| fortnite-12-61-0-13498980 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-12-61-0-13498980-android-apk-1749795865/fortnite-12-61-0-13498980-android.apk) | N/A | N/A |
+| fortnite-12-00-0-11529743 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-00-0-11529743-android.apk.zip) | N/A | N/A |
+| fortnite-12-00-0-11573981 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-00-0-11573981-android.apk.zip) | N/A | N/A |
+| fortnite-12-10-0-11794982 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-10-0-11794982-android.apk.zip) | N/A | N/A |
+| fortnite-12-20-0-12170032 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-20-0-12170032-android.apk.zip) | N/A | N/A |
+| fortnite-12-20-0-12240764 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-20-0-12240764-android.apk.zip) | N/A | N/A |
+| fortnite-12-21-0-12337779 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-21-0-12337779-android.apk.zip) | N/A | N/A |
+| fortnite-12-21-0-12395074 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-21-0-12395074-android.apk.zip) | N/A | N/A |
+| fortnite-12-30-0-12486755 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-30-0-12486755-android.apk.zip) | N/A | N/A |
+| fortnite-12-30-0-12502623 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-30-0-12502623-android.apk.zip) | N/A | N/A |
+| fortnite-12-30-0-12624643 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-30-0-12624643-android.apk.zip) | N/A | N/A |
+| fortnite-12-40-0-12743641 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-40-0-12743641-android.apk.zip) | N/A | N/A |
+| fortnite-12-40-0-12837456 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-40-0-12837456-android.apk.zip) | N/A | N/A |
+| fortnite-12-41-0-12910313 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-41-0-12910313-android.apk.zip) | N/A | N/A |
+| fortnite-12-50-0-13044691 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-50-0-13044691-android.apk.zip) | N/A | N/A |
+| fortnite-12-50-0-13070927 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-50-0-13070927-android.apk.zip) | N/A | N/A |
+| fortnite-12-50-0-13179981 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-50-0-13179981-android.apk.zip) | N/A | N/A |
+| fortnite-12-60-0-13333624 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-60-0-13333624-android.apk.zip) | N/A | N/A |
+| fortnite-12-61-0-13498980 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-12-61-0-13498980-android.apk.zip) | N/A | N/A |
 
 # season 13
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-13-00-0-13649278 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-00-0-13649278-android-apk-1749795879/fortnite-13-00-0-13649278-android.apk) | N/A | N/A |
-| fortnite-13-00-0-13715544 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-00-0-13715544-android-apk-1749795895/fortnite-13-00-0-13715544-android.apk) | N/A | N/A |
-| fortnite-13-20-0-13777676 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-20-0-13777676-android-apk-1749795911/fortnite-13-20-0-13777676-android.apk) | N/A | N/A |
-| fortnite-13-30-0-13884634 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-30-0-13884634-android-apk-1749795928/fortnite-13-30-0-13884634-android.apk) | N/A | N/A |
-| fortnite-13-40-0-14009477 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-40-0-14009477-android-apk-1749795946/fortnite-13-40-0-14009477-android.apk) | N/A | N/A |
-| fortnite-13-40-0-14043030 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-13-40-0-14043030-android-apk-1749795964/fortnite-13-40-0-14043030-android.apk) | N/A | N/A |
+| fortnite-13-00-0-13649278 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-00-0-13649278-android.apk.zip) | N/A | N/A |
+| fortnite-13-00-0-13715544 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-00-0-13715544-android.apk.zip) | N/A | N/A |
+| fortnite-13-20-0-13777676 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-20-0-13777676-android.apk.zip) | N/A | N/A |
+| fortnite-13-30-0-13884634 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-30-0-13884634-android.apk.zip) | N/A | N/A |
+| fortnite-13-40-0-14009477 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-40-0-14009477-android.apk.zip) | N/A | N/A |
+| fortnite-13-40-0-14043030 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-13-40-0-14043030-android.apk.zip) | N/A | N/A |
 
 # season 14
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-14-00-0-14173417 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-00-0-14173417-android-apk-1749795981/fortnite-14-00-0-14173417-android.apk) | N/A | N/A |
-| fortnite-14-00-0-14211474 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-00-0-14211474-android-apk-1749795997/fortnite-14-00-0-14211474-android.apk) | N/A | N/A |
-| fortnite-14-10-0-14276901 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-10-0-14276901-android-apk-1749796013/fortnite-14-10-0-14276901-android.apk) | N/A | N/A |
-| fortnite-14-10-0-14295841 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-10-0-14295841-android-apk-1749796029/fortnite-14-10-0-14295841-android.apk) | N/A | N/A |
-| fortnite-14-20-0-14365286 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-20-0-14365286-android-apk-1749796046/fortnite-14-20-0-14365286-android.apk) | N/A | N/A |
-| fortnite-14-20-0-14382452 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-20-0-14382452-android-apk-1749796062/fortnite-14-20-0-14382452-android.apk) | N/A | N/A |
-| fortnite-14-30-0-14472258 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-30-0-14472258-android-apk-1749796079/fortnite-14-30-0-14472258-android.apk) | N/A | N/A |
-| fortnite-14-40-0-14512296 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-40-0-14512296-android-apk-1749796096/fortnite-14-40-0-14512296-android.apk) | N/A | N/A |
-| fortnite-14-40-0-14550713 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-40-0-14550713-android-apk-1749796113/fortnite-14-40-0-14550713-android.apk) | N/A | N/A |
-| fortnite-14-50-0-14612224 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-50-0-14612224-android-apk-1749796131/fortnite-14-50-0-14612224-android.apk) | N/A | N/A |
-| fortnite-14-50-0-14644191 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-50-0-14644191-android-apk-1749796148/fortnite-14-50-0-14644191-android.apk) | N/A | N/A |
-| fortnite-14-60-0-14749530 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-14-60-0-14749530-android-apk-1749796165/fortnite-14-60-0-14749530-android.apk) | N/A | N/A |
+| fortnite-14-00-0-14173417 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-00-0-14173417-android.apk.zip) | N/A | N/A |
+| fortnite-14-00-0-14211474 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-00-0-14211474-android.apk.zip) | N/A | N/A |
+| fortnite-14-10-0-14276901 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-10-0-14276901-android.apk.zip) | N/A | N/A |
+| fortnite-14-10-0-14295841 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-10-0-14295841-android.apk.zip) | N/A | N/A |
+| fortnite-14-20-0-14365286 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-20-0-14365286-android.apk.zip) | N/A | N/A |
+| fortnite-14-20-0-14382452 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-20-0-14382452-android.apk.zip) | N/A | N/A |
+| fortnite-14-30-0-14472258 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-30-0-14472258-android.apk.zip) | N/A | N/A |
+| fortnite-14-40-0-14512296 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-40-0-14512296-android.apk.zip) | N/A | N/A |
+| fortnite-14-40-0-14550713 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-40-0-14550713-android.apk.zip) | N/A | N/A |
+| fortnite-14-50-0-14612224 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-50-0-14612224-android.apk.zip) | N/A | N/A |
+| fortnite-14-50-0-14644191 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-50-0-14644191-android.apk.zip) | N/A | N/A |
+| fortnite-14-60-0-14749530 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-14-60-0-14749530-android.apk.zip) | N/A | N/A |
 
 # season 15
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-15-00-0-14826719 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-00-0-14826719-android-apk-1749796181/fortnite-15-00-0-14826719-android.apk) | N/A | N/A |
-| fortnite-15-00-0-14835335 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-00-0-14835335-android-apk-1749796197/fortnite-15-00-0-14835335-android.apk) | N/A | N/A |
-| fortnite-15-00-0-14869341 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-00-0-14869341-android-apk-1749796214/fortnite-15-00-0-14869341-android.apk) | N/A | N/A |
-| fortnite-15-00-0-14884972 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-00-0-14884972-android-apk-1749796231/fortnite-15-00-0-14884972-android.apk) | N/A | N/A |
-| fortnite-15-10-0-14922381 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-10-0-14922381-android-apk-1749796249/fortnite-15-10-0-14922381-android.apk) | N/A | N/A |
-| fortnite-15-10-0-14984251 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-10-0-14984251-android-apk-1749796266/fortnite-15-10-0-14984251-android.apk) | N/A | N/A |
-| fortnite-15-20-0-15033494 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-20-0-15033494-android-apk-1749796284/fortnite-15-20-0-15033494-android.apk) | N/A | N/A |
-| fortnite-15-21-0-15098852 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-21-0-15098852-android-apk-1749796301/fortnite-15-21-0-15098852-android.apk) | N/A | N/A |
-| fortnite-15-30-0-15233634 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-30-0-15233634-android-apk-1749796317/fortnite-15-30-0-15233634-android.apk) | N/A | N/A |
-| fortnite-15-30-0-15306522 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-30-0-15306522-android-apk-1749796334/fortnite-15-30-0-15306522-android.apk) | N/A | N/A |
-| fortnite-15-40-0-15385160 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-40-0-15385160-android-apk-1749796351/fortnite-15-40-0-15385160-android.apk) | N/A | N/A |
-| fortnite-15-40-0-15424013 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-40-0-15424013-android-apk-1749796367/fortnite-15-40-0-15424013-android.apk) | N/A | N/A |
-| fortnite-15-40-0-15466285 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-40-0-15466285-android-apk-1749796384/fortnite-15-40-0-15466285-android.apk) | N/A | N/A |
-| fortnite-15-50-0-15526472 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-15-50-0-15526472-android-apk-1749796402/fortnite-15-50-0-15526472-android.apk) | N/A | N/A |
+| fortnite-15-00-0-14826719 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-00-0-14826719-android.apk.zip) | N/A | N/A |
+| fortnite-15-00-0-14835335 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-00-0-14835335-android.apk.zip) | N/A | N/A |
+| fortnite-15-00-0-14869341 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-00-0-14869341-android.apk.zip) | N/A | N/A |
+| fortnite-15-00-0-14884972 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-00-0-14884972-android.apk.zip) | N/A | N/A |
+| fortnite-15-10-0-14922381 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-10-0-14922381-android.apk.zip) | N/A | N/A |
+| fortnite-15-10-0-14984251 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-10-0-14984251-android.apk.zip) | N/A | N/A |
+| fortnite-15-20-0-15033494 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-20-0-15033494-android.apk.zip) | N/A | N/A |
+| fortnite-15-21-0-15098852 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-21-0-15098852-android.apk.zip) | N/A | N/A |
+| fortnite-15-30-0-15233634 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-30-0-15233634-android.apk.zip) | N/A | N/A |
+| fortnite-15-30-0-15306522 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-30-0-15306522-android.apk.zip) | N/A | N/A |
+| fortnite-15-40-0-15385160 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-40-0-15385160-android.apk.zip) | N/A | N/A |
+| fortnite-15-40-0-15424013 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-40-0-15424013-android.apk.zip) | N/A | N/A |
+| fortnite-15-40-0-15466285 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-40-0-15466285-android.apk.zip) | N/A | N/A |
+| fortnite-15-50-0-15526472 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-15-50-0-15526472-android.apk.zip) | N/A | N/A |
 
 # season 16
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-16-00-0-15685441 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-00-0-15685441-android-apk-1749796419/fortnite-16-00-0-15685441-android.apk) | N/A | N/A |
-| fortnite-16-00-0-15739711 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-00-0-15739711-android-apk-1749796435/fortnite-16-00-0-15739711-android.apk) | N/A | N/A |
-| fortnite-16-10-0-15848155 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-10-0-15848155-android-apk-1749796453/fortnite-16-10-0-15848155-android.apk) | N/A | N/A |
-| fortnite-16-10-0-15913292 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-10-0-15913292-android-apk-1749796469/fortnite-16-10-0-15913292-android.apk) | N/A | N/A |
-| fortnite-16-20-0-15962126 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-20-0-15962126-android-apk-1749796488/fortnite-16-20-0-15962126-android.apk) | N/A | N/A |
-| fortnite-16-20-0-16035458 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-20-0-16035458-android-apk-1749796504/fortnite-16-20-0-16035458-android.apk) | N/A | N/A |
-| fortnite-16-30-0-16086208 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-30-0-16086208-android-apk-1749796520/fortnite-16-30-0-16086208-android.apk) | N/A | N/A |
-| fortnite-16-30-0-16163563 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-30-0-16163563-android-apk-1749796536/fortnite-16-30-0-16163563-android.apk) | N/A | N/A |
-| fortnite-16-40-0-16227914 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-40-0-16227914-android-apk-1749796552/fortnite-16-40-0-16227914-android.apk) | N/A | N/A |
-| fortnite-16-50-0-16410958 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-50-0-16410958-android-apk-1749796568/fortnite-16-50-0-16410958-android.apk) | N/A | N/A |
-| fortnite-16-50-0-16451367 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-16-50-0-16451367-android-apk-1749796583/fortnite-16-50-0-16451367-android.apk) | N/A | N/A |
+| fortnite-16-00-0-15685441 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-00-0-15685441-android.apk) | N/A | N/A |
+| fortnite-16-00-0-15739711 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-00-0-15739711-android.apk) | N/A | N/A |
+| fortnite-16-10-0-15848155 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-10-0-15848155-android.apk) | N/A | N/A |
+| fortnite-16-10-0-15913292 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-10-0-15913292-android.apk) | N/A | N/A |
+| fortnite-16-20-0-15962126 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-20-0-15962126-android.apk) | N/A | N/A |
+| fortnite-16-20-0-16035458 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-20-0-16035458-android.apk) | N/A | N/A |
+| fortnite-16-30-0-16086208 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-30-0-16086208-android.apk) | N/A | N/A |
+| fortnite-16-30-0-16163563 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-30-0-16163563-android.apk) | N/A | N/A |
+| fortnite-16-40-0-16227914 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-40-0-16227914-android.apk) | N/A | N/A |
+| fortnite-16-50-0-16410958 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-50-0-16410958-android.apk) | N/A | N/A |
+| fortnite-16-50-0-16451367 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-16-50-0-16451367-android.apk) | N/A | N/A |
 
 # season 17
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
-| fortnite-17-00-0-16555138 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-17-00-0-16555138-android-apk-1749796599/fortnite-17-00-0-16555138-android.apk) | N/A | N/A |
-| fortnite-17-00-0-16593740 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-17-00-0-16593740-android-apk-1749796614/fortnite-17-00-0-16593740-android.apk) | N/A | N/A |
+| fortnite-17-00-0-16555138 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-17-00-0-16555138-android.apk) | N/A | N/A |
+| fortnite-17-00-0-16593740 | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-17-00-0-16593740-android.apk) | N/A | N/A |
 | fortnite-17-10-0-16701187 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-17-10-0-16701187-android-apk-1749796630/fortnite-17-10-0-16701187-android.apk) | N/A | N/A |
 | fortnite-17-10-0-16745144 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-17-10-0-16745144-android-apk-1749796646/fortnite-17-10-0-16745144-android.apk) | N/A | N/A |
 | fortnite-17-20-0-16858885 | [Download](https://github.com/mtbr29/FNAndroidArchive/releases/download/release-fortnite-17-20-0-16858885-android-apk-1749796662/fortnite-17-20-0-16858885-android.apk) | N/A | N/A |
