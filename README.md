@@ -14,10 +14,7 @@ Me - Manifest and downloadeds APKs
 
 ### If you want Windows,Android,IOS,Xbox,Nintendo Switch and PS4 builds: https://mtbr29.dev/builds
 
-# season 1
-|Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
-|-----------|-----------|-----------|-----------|
-| release-fortnite-1-0-0-apk  | [Download](https://archive.org/download/FNAndroidBuildsArchive/fortnite-1-0-0.apk)  | n/a | n/a|
+
 <!-- # season 5
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 |
 |-----------|-----------|-----------|-----------|
